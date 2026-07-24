@@ -46,6 +46,7 @@ crons = ["0 16 * * *"]
 [vars]
 domain = ["haoyangmaoedu.dpdns.org"]
 admin = "admin@haoyangmaoedu.dpdns.org"
+admin_password = "P@55word"
 jwt_secret = "9sK7dP2vR5zQ8bN3xG1jT6mC0aF4hL9wY2uE7rB5kD8sJ0nX3qZ6gV1cM4tH7lW2yU5eR8bK0dS3jN6xG1pT9mC4fH7lW2yU5eR8bK0dS3jN6xG1pT9mC4f"
 
 
